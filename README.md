@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, GameFI, Defi, building games onchain and offchain, Metaverses, AR, VR, XR, MR.
 - 🌱 I’m currently learning blockchain protocol development, zkproofs, building games, metaverses and marketplaces onchain.
 - 💞️ I’m looking to collaborate on blockchain related projects.
-- 📫 How to reach me: Gmail: osawarumitchell@gmail.com, Twitter: @mitch3ll, LinkedIn:https://www.linkedin.com/in/mitchell-osawaru-4004131a2/
+- 📫 How to reach me: Gmail: osawarumitchell@gmail.com, Twitter: @0xMitch3ll, LinkedIn:https://www.linkedin.com/in/mitchell-osawaru-4004131a2/
 
 <!---
 Cyber-Mitch/Cyber-Mitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
